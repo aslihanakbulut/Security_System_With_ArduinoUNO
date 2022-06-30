@@ -30,3 +30,13 @@ meydana gelir ve alarm aktifleşir.
 LDR (ışık) sensörüne gelen ışık lazer tarafından sağlanır lazer ile LDR arasındaki bağlantı kesildiğinde alarm 
 aktifleşir. LDR üzerine düşen ışık miktarı azaldığında direnci azalır ve okunan analog değer artar. Okunan analog 
 değerin artması durumunda alarm çalışmaktadır
+
+## Kullanılan Malzemeler
+Arduino UNO R3
+Ağırlık Sensörü
+Hareket Sensörü
+LDR ve lazer
+Kızılötesi Sensör
+RFID Modülü
+LCD Ekran
+LED ve Buzzer
