@@ -33,10 +33,17 @@ değerin artması durumunda alarm çalışmaktadır
 
 ## Kullanılan Malzemeler
 Arduino UNO R3
+
 Ağırlık Sensörü
+
 Hareket Sensörü
+
 LDR ve lazer
+
 Kızılötesi Sensör
+
 RFID Modülü
+
 LCD Ekran
+
 LED ve Buzzer
