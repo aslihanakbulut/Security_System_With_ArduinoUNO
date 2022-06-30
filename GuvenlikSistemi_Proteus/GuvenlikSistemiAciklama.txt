@@ -1,0 +1,16 @@
+RFID modülünün kütüphanesi bulunamadığı için muadili olarak Virtual Terminal kullanıldı ve modlar arasında geçiş yapılabildi.
+
+Mod değiştirmek için Proteus'ta yazısız şekilde açılan Virtual Terminal ekranına hangi moda geçiş yapılmak isteniyorsa onun ID değeri yapıştırılır. 
+Eğer mod değiştirme başarılı olursa diğer Virtual Terminal ekranında geçilen mod yazmaktadır.
+
+Gece modu için ID: AB123456789A
+Gece modunda çalışan sensörler: Hareket, ağırlık, LDR sensörleri.
+
+Gündüz modu için ID: AB123456789B
+Gündüz modunda çalışan sensörler: Kızılötesi ve ağırlık sensörleri.
+Kızılötesi sensörlerinden alınan bilgiler dahilinde hesaplanan kişi sayısı LCD ekran üzerinde görüntülenmektedir.
+
+Alarmı devre dışı bırakmak için ID: AB123456789C
+
+Devrede kullanılacak lazer proteusta LDR modülü ile temsil edildi.
+
