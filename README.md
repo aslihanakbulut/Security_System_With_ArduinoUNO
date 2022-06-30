@@ -1,6 +1,6 @@
 # Security_System_With_ArduinoUNO
 
-#PROJE AMACI
+# PROJE AMACI 
 Projede amaç hareket (PIR), kızılötesi (IR), lazer, ışık (LDR) ve ağırlık sensörlerini kullanarak alarm veren bir 
 sistem oluşturmaktır. Müzelerde bulunan değerli eşyaların çalınmasına karşın ağırlık sensörü 
 kullanılmaktadır. Nesneler yerinden hareket ettirildiğinde alarm çalışacak şeklinde bir sistem 
