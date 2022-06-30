@@ -45,5 +45,5 @@ Kızılötesi Sensör
 RFID Modülü
 
 LCD Ekran
-
+ 
 LED ve Buzzer
