@@ -1,6 +1,6 @@
 # Security_System_With_ArduinoUNO
 
-# PROJE AMACI 
+## PROJE AMACI 
 Projede amaç hareket (PIR), kızılötesi (IR), lazer, ışık (LDR) ve ağırlık sensörlerini kullanarak alarm veren bir 
 sistem oluşturmaktır. Müzelerde bulunan değerli eşyaların çalınmasına karşın ağırlık sensörü 
 kullanılmaktadır. Nesneler yerinden hareket ettirildiğinde alarm çalışacak şeklinde bir sistem 
@@ -11,7 +11,7 @@ ortamda bulunan insan sayısını algılayabilmek için de IR (kızılötesi) se
 planlanmaktadır. Bu şekilde içeri giren çıkan insanların sayısı belirlenmiş olur. Böylelikle kapanış 
 vakitlerinde içeride birilerinin kalıp kalmadığı bilinerek de hırsızlara karşı önlem alınabilir
 
-# DONANIM SİSTEMİNİN ÇALIŞMA MANTIĞI
+## DONANIM SİSTEMİNİN ÇALIŞMA MANTIĞI
 Güvenlik Sisteminde RFID ile mod değişimi yapılmaktadır. Bunun için iki kart, bir anahtarlık kullanılmıştır. 
 Okunan UID numarasına göre modlar arası geçiş yapılarak farklı sensörler aktifleştirilir veya alarm sistemi 
 devre dışı bırakılır. Sistemin gündüz modunda ağırlık sensörü ve kızılötesi sensörleri çalışmaktadır. Ağırlık 
