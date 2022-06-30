@@ -11,6 +11,7 @@ ortamda bulunan insan sayısını algılayabilmek için de IR (kızılötesi) se
 planlanmaktadır. Bu şekilde içeri giren çıkan insanların sayısı belirlenmiş olur. Böylelikle kapanış 
 vakitlerinde içeride birilerinin kalıp kalmadığı bilinerek de hırsızlara karşı önlem alınabilir
 
+
 ## DONANIM SİSTEMİNİN ÇALIŞMA MANTIĞI
 Güvenlik Sisteminde RFID ile mod değişimi yapılmaktadır. Bunun için iki kart, bir anahtarlık kullanılmıştır. 
 Okunan UID numarasına göre modlar arası geçiş yapılarak farklı sensörler aktifleştirilir veya alarm sistemi 
