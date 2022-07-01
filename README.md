@@ -43,6 +43,7 @@ değerin artması durumunda alarm çalışmaktadır
 - LED ve Buzzer
 
 ## Proje Ekibi:
+- [İrem Sertel](https://github.com/iremsertel)
 - [Kaan Sertel](https://github.com/kaansertel)
 - [Aslıhan Akbulut](https://github.com/aslihanakbulut)
-- [İrem Sertel](https://github.com/iremsertel)
+
