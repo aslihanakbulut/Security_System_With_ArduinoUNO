@@ -33,18 +33,16 @@ aktifleşir. LDR üzerine düşen ışık miktarı azaldığında direnci azalı
 değerin artması durumunda alarm çalışmaktadır
 
 ## Kullanılan Malzemeler
-Arduino UNO R3
+- Arduino UNO R3
+- Ağırlık Sensörü
+- Hareket Sensörü
+- LDR ve lazer
+- Kızılötesi Sensör
+- RFID Modülü
+- LCD Ekran
+- LED ve Buzzer
 
-Ağırlık Sensörü
-
-Hareket Sensörü
-
-LDR ve lazer
-
-Kızılötesi Sensör
-
-RFID Modülü
-
-LCD Ekran
- 
-LED ve Buzzer
+## Proje Ekibi:
+- [Kaan Sertel](https://github.com/kaansertel)
+- [Aslıhan Akbulut](https://github.com/aslihanakbulut)
+- [İrem Sertel](https://github.com/iremsertel)
